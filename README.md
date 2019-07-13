@@ -1,0 +1,2 @@
+***
+this is just an assignment I did that uses an EJS templating engine, along with express as a server, and a simple array to hold variables.  Theres a lot of functionality in the app, such as using for loops with EJS and control statements as well.  I used partials to hold blocks of code that is re used in more than one view and also static file hosting with express in order to use my css files.  Although simple, it was a good practice where I learned a lot.
